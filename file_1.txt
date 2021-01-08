@@ -1,7 +1,2 @@
 Hello world!
-12345
 Good bye!
-line from user2
-USER2
-new feature
-
