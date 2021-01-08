@@ -3,4 +3,5 @@ Hello world!
 Good bye!
 line from user2
 USER2
+new feature
 
