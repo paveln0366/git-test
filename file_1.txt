@@ -2,3 +2,5 @@ Hello world!
 Good bye!
 commit A
 commit B
+commit C
+commit D
